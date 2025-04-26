@@ -63,11 +63,12 @@ You don’t need to figure everything out today. Here’s the path we’ll take:
 
 You’ll customize this section with your own details once you get started.
 
-Elden Vidal  
+Elden Vidal
+I am 17 years old. I will graduate in 2026.
 Your Intrest:
-- Video Stuff
-- [Interest 2]
-- [Interest 3]
+- Video Editing
+- Video Recording
+- Video Games
 
 One thing I want to build this month: [Project idea or goal]
 
