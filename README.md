@@ -63,8 +63,7 @@ You don’t need to figure everything out today. Here’s the path we’ll take:
 
 You’ll customize this section with your own details once you get started.
 
-markdown
-ELden Vidal  
+Elden Vidal  
 Your Intrest:
 - Video Stuff
 - [Interest 2]
