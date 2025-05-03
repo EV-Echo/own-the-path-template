@@ -32,6 +32,8 @@ Let’s keep it simple to start:
    - Screenshot your results  
    - Upload it to the `/assignments/01-intro` folder
 
+![Screenshot 2025-05-03 122629](https://github.com/user-attachments/assets/4bf56184-45db-42a6-a284-4f8aff8d6734)
+
 4. **Push it all to GitHub**
    - Commit, push, and check your repo online
    - DM me when it's up
